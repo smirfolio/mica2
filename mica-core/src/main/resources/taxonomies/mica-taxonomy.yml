@@ -27,8 +27,6 @@
       "description":
         "en": "Information classification developed by Maelstrom."
         "fr": "Classification des informations développée par Maelstrom."
-<<<<<<< 088b7da9978630d683b12ccab0624e55f930bf3f
-=======
       "attributes":
         "weight": 0
     - "name": "Mica_variable"
@@ -40,7 +38,6 @@
         "fr": "Propriétés des variables telles que définies dans le catalogue."
       "attributes":
         "weight": 2
->>>>>>> MK-1811 Replaced cryptic weight attribute by taxonomy natural order
     - "name": "Mlstr_additional"
       "title":
         "en": "Source & target"
@@ -48,7 +45,6 @@
       "description":
         "en": "Information about data collection methods and individuals targeted."
         "fr": "Information sur les méthodes de collecte de données et les individus ciblés."
-<<<<<<< 088b7da9978630d683b12ccab0624e55f930bf3f
     - "name": "Mica_variable"
       "title":
         "en": "Variable properties"
@@ -56,10 +52,8 @@
       "description":
         "en": "Variable properties as defined in the catalogue."
         "fr": "Propriétés des variables telles que définies dans le catalogue."
-=======
       "attributes":
         "weight": 1
->>>>>>> MK-1811 Replaced cryptic weight attribute by taxonomy natural order
 - "name": "dataset"
   "title":
     "en": "Datasets"
